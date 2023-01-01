@@ -44,6 +44,13 @@ sass:
   sass_dir: _sass
   style: :compressed
 
+github:
+  username: wangtx
+gitalk:
+  repo: wangtx.github.io
+  client_id: 85520dbd0bfbdff8f64d
+  client_secret: cc1481b23040d48a2ac8f603026de393e62ddd7e
+
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking

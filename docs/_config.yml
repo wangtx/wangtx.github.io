@@ -37,7 +37,7 @@ social:
   links:
     - https://twitter.com/Uncle_Xing
     - https://github.com/wangtx
-google_site_verification: xxxxx
+google_site_verification: google735cb6eb196570d8.html
 lang: en
 
 sass:
@@ -54,7 +54,7 @@ gitalk:
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
-# google_analytics: UA-000000-0
+ google_analytics: G-W4EGF6DC40
 
 # Replace this value and uncomment to enable Disqus
 # disqus: xxxxxx

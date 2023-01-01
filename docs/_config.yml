@@ -54,7 +54,7 @@ gitalk:
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
- google_analytics: G-W4EGF6DC40
+google_analytics: G-W4EGF6DC40
 
 # Replace this value and uncomment to enable Disqus
 # disqus: xxxxxx
